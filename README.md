@@ -1,2 +1,1 @@
-# git-primer
-Just an example repo.
+# My Git Primer
